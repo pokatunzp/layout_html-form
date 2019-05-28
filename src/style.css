@@ -10,3 +10,8 @@ fieldset {
 .firstInput {
   margin-top: 0;
 }
+
+.fact {
+  margin-top: 0;
+  display: inline-block;
+}
